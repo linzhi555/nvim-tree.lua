@@ -453,7 +453,7 @@ local DEFAULT_OPTS = { -- BEGIN_DEFAULT_OPTS
         modified = true,
       },
       glyphs = {
-        default = "*",
+        default = "-",
         symlink = "链",
         bookmark = "签",
         modified = "●",
@@ -461,7 +461,7 @@ local DEFAULT_OPTS = { -- BEGIN_DEFAULT_OPTS
           arrow_closed = "关",
           arrow_open = "开",
           default = "*",
-          open = "开",
+          open = "&",
           empty = "空",
           empty_open = "无",
           symlink = "链",
